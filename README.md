@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+A React app to create, view, update and delete tasks.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
